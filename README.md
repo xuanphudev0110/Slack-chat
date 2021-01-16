@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosting test
+
+https://react-slack-clone-57ec2.web.app/
+
 ## Library
 
 - emoji-mart
